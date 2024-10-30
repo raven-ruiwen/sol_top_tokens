@@ -8,3 +8,4 @@ tls_request/
 go.mod
 go.sum
 main.go
+push.sh
